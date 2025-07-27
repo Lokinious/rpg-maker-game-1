@@ -1,6 +1,6 @@
 [
 null,
-null,
+{"id":1,"expanded":false,"name":"Church-Inner","order":5,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":2,"expanded":false,"name":"Tutorial Map number 1","order":1,"parentId":0,"scrollX":589.8181818181819,"scrollY":422.1818181818182,"quick":false},
 {"id":3,"expanded":true,"name":"Local Shopping Street","order":2,"parentId":0,"scrollX":589.8181818181819,"scrollY":332.72727272727275,"quick":false},
 {"id":4,"expanded":false,"name":"Abandoned House","order":3,"parentId":0,"scrollX":589.8181818181819,"scrollY":406.1818181818182,"quick":false},
