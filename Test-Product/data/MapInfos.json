@@ -5,7 +5,8 @@ null,
 {"id":3,"expanded":true,"name":"Local Shopping Street","order":2,"parentId":0,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
 {"id":4,"expanded":false,"name":"Abandoned House","order":3,"parentId":0,"scrollX":884.7272727272727,"scrollY":499.0909090909091,"quick":false},
 {"id":5,"expanded":false,"name":"Church","order":4,"parentId":0,"scrollX":816,"scrollY":640,"quick":false},
-{"id":6,"expanded":true,"name":"Indoor Church","order":5,"parentId":0,"scrollX":832,"scrollY":640,"quick":false},
-{"id":7,"expanded":false,"name":"Indoor Church-cutscene","order":6,"parentId":6,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
-{"id":8,"expanded":true,"name":"Upstairs","order":7,"parentId":6,"scrollX":1228.5,"scrollY":720.75,"quick":false}
+{"id":6,"expanded":false,"name":"Indoor Church","order":5,"parentId":0,"scrollX":1017.5999999999999,"scrollY":640.1999999999999,"quick":false},
+{"id":7,"expanded":false,"name":"Indoor Church-cutscene","order":6,"parentId":6,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
+{"id":8,"expanded":true,"name":"Upstairs","order":7,"parentId":6,"scrollX":1027.2,"scrollY":720.6,"quick":false},
+{"id":9,"expanded":false,"name":"Village 1","order":9,"parentId":0,"scrollX":1017.5999999999999,"scrollY":633,"quick":false}
 ]
